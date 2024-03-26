@@ -1,0 +1,3 @@
+[submodule "labotool-express"]
+	path = labotool-express
+	url = git@github.com:brechtparmentier/nodejs_labotool.git
